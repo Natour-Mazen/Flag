@@ -163,11 +163,7 @@
     "variations": {
       "standard": "cloudflare",
       "premium": "akamai",
-      "multi": [
-        "cloudflare",
-        "akamai",
-        "fastly"
-      ]
+      "multi": "fastly"
     },
     "defaultRule": {
       "variation": "standard"
